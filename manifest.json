@@ -1,0 +1,21 @@
+{
+
+  "manifest_version": 2,
+  "name": "All-Img-Pepe",
+  "version": "1.0",
+
+  "description": "A firefox extension that replaces every image tag's src with a pepe image.",
+
+  "icons": {
+    "48": "icons/pepe-48.png",
+    "96": "icons/pepe-96.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["pepeIT.js"]
+    }
+  ]
+
+}
