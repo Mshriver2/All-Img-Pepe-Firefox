@@ -18,6 +18,8 @@ cd All-Img-Pepe-Firefox/
 
 ## TODO
 * make sure img replace loop works on all types of images
+* automatically add image urls from a webdir or text file in a webdir into the two image arrays
+* create a seperate array for both gif's and static images
 
 ## Credits
 Developed by mshriver2
