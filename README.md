@@ -18,6 +18,8 @@ cd All-Img-Pepe-Firefox/
 
 ## TODO
 * make sure img replace loop works on all types of images
+* add gif images
+* add options page to choose which image types are displayed
 
 ## Credits
 Developed by mshriver2
