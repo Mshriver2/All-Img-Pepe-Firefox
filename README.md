@@ -1,4 +1,5 @@
 # All-Img-Pepe-Firefox
+![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/mshriver2/All-Img-Pepe-Firefox?include_prereleases&label=version) ![issues](https://img.shields.io/github/issues/Mshriver2/All-Img-Pepe-Firefox.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/mshriver2/All-Img-Pepe-Firefox?color=green)    
 A firefox extension that replaces every image tag's src with a random pepe image.
 
 ## Installation
@@ -23,3 +24,5 @@ cd All-Img-Pepe-Firefox/
 
 ## Credits
 Developed by mshriver2
+
+![GitHub top language](https://img.shields.io/github/languages/top/mshriver2/All-Img-Pepe-Firefox?color=yellow)
